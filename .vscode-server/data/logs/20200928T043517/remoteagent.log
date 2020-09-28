@@ -53,3 +53,21 @@
 [2020-09-28 04:58:51.991] [remoteagent] [info] [127.0.0.1][6c60cafc][ManagementConnection] New connection established.
 [2020-09-28 04:58:51.992] [remoteagent] [info] [127.0.0.1][e420ffc9][ExtensionHostConnection] New connection established.
 [2020-09-28 04:58:52.003] [remoteagent] [info] [127.0.0.1][e420ffc9][ExtensionHostConnection] <20487> Launched Extension Host Process.
+[2020-09-28 05:03:51.878] [remoteagent] [info] New EH opened, aborting shutdown
+[2020-09-28 05:36:54.517] [remoteagent] [info] [127.0.0.1][6c60cafc][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-09-28 05:36:55.550] [remoteagent] [info] [127.0.0.1][e420ffc9][ExtensionHostConnection] <20487> Extension Host Process exited with code: 0, signal: null.
+[2020-09-28 05:36:55.551] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-09-28 05:38:17.205] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-09-28 05:38:17.205] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-09-28 05:38:17.298] [remoteagent] [info] [127.0.0.1][e6e0fc6d][ManagementConnection] New connection established.
+[2020-09-28 05:38:17.300] [remoteagent] [info] [127.0.0.1][21b17ebf][ExtensionHostConnection] New connection established.
+[2020-09-28 05:38:17.313] [remoteagent] [info] [127.0.0.1][21b17ebf][ExtensionHostConnection] <20795> Launched Extension Host Process.
+[2020-09-28 05:38:24.889] [remoteagent] [info] [127.0.0.1][e6e0fc6d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-09-28 05:38:25.921] [remoteagent] [info] [127.0.0.1][21b17ebf][ExtensionHostConnection] <20795> Extension Host Process exited with code: 0, signal: null.
+[2020-09-28 05:38:25.921] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-09-28 05:38:25.921] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-09-28 05:38:46.759] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-09-28 05:38:46.759] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-09-28 05:38:46.856] [remoteagent] [info] [127.0.0.1][b72b5906][ManagementConnection] New connection established.
+[2020-09-28 05:38:46.857] [remoteagent] [info] [127.0.0.1][30285cc8][ExtensionHostConnection] New connection established.
+[2020-09-28 05:38:46.866] [remoteagent] [info] [127.0.0.1][30285cc8][ExtensionHostConnection] <20950> Launched Extension Host Process.
