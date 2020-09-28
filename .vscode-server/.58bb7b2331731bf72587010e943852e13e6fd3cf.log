@@ -1,0 +1,76 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+IP Address: 172.23.0.30
+Extension host agent listening on 34581
+
+
+[04:35:17] Extension host agent started.
+[04:35:21] [127.0.0.1][aece6aa4][ExtensionHostConnection] New connection established.
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+[04:35:21] [127.0.0.1][0fb8e71e][ManagementConnection] New connection established.
+[04:35:21] [127.0.0.1][aece6aa4][ExtensionHostConnection] <15750> Launched Extension Host Process.
+[04:35:31] [127.0.0.1][0fb8e71e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[04:35:32] [127.0.0.1][aece6aa4][ExtensionHostConnection] <15750> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[04:35:32] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[04:35:37] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[04:35:37] Cancelling previous shutdown timeout
+[04:35:37] [127.0.0.1][fd1d9fd3][ManagementConnection] New connection established.
+[04:35:37] [127.0.0.1][f4faaa8d][ExtensionHostConnection] New connection established.
+[04:35:37] [127.0.0.1][f4faaa8d][ExtensionHostConnection] <15915> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[04:40:37] New EH opened, aborting shutdown
+[04:46:55] Installing extension: eamodio.gitlens
+[04:46:56] Downloaded extension: eamodio.gitlens /home/superuser/.vscode-server/data/CachedExtensionVSIXs/eamodio.gitlens-10.2.2
+[04:46:56] Extracted extension to /home/superuser/.vscode-server/extensions/.eamodio.gitlens-10.2.2: eamodio.gitlens
+[04:46:56] Renamed to /home/superuser/.vscode-server/extensions/eamodio.gitlens-10.2.2
+[04:46:57] Installation completed. eamodio.gitlens
+[04:46:57] Extensions installed successfully: eamodio.gitlens
+[04:47:01] [127.0.0.1][fd1d9fd3][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[04:47:02] [127.0.0.1][f4faaa8d][ExtensionHostConnection] <15915> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[04:47:02] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[04:47:24] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[04:47:24] Cancelling previous shutdown timeout
+[04:47:24] [127.0.0.1][e1e914dd][ManagementConnection] New connection established.
+[04:47:24] [127.0.0.1][76b60a6b][ExtensionHostConnection] New connection established.
+[04:47:24] [127.0.0.1][76b60a6b][ExtensionHostConnection] <19714> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[04:52:24] New EH opened, aborting shutdown
+[04:54:35] [127.0.0.1][e1e914dd][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[04:54:36] [127.0.0.1][76b60a6b][ExtensionHostConnection] <19714> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[04:54:36] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[04:55:21] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[04:55:21] Cancelling previous shutdown timeout
+[04:55:21] [127.0.0.1][d90b8f23][ManagementConnection] New connection established.
+[04:55:21] [127.0.0.1][9cf4049c][ExtensionHostConnection] New connection established.
+[04:55:21] [127.0.0.1][9cf4049c][ExtensionHostConnection] <20305> Launched Extension Host Process.
+[04:58:39] [127.0.0.1][d90b8f23][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[04:58:40] [127.0.0.1][9cf4049c][ExtensionHostConnection] <20305> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[04:58:40] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[04:58:40] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[04:58:51] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[04:58:51] Cancelling previous shutdown timeout
+[04:58:51] [127.0.0.1][6c60cafc][ManagementConnection] New connection established.
+[04:58:51] [127.0.0.1][e420ffc9][ExtensionHostConnection] New connection established.
+[04:58:52] [127.0.0.1][e420ffc9][ExtensionHostConnection] <20487> Launched Extension Host Process.

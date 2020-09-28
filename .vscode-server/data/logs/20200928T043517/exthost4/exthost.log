@@ -1,0 +1,16 @@
+[2020-09-28 04:55:22.629] [exthost] [info] extension host started
+[2020-09-28 04:55:22.661] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-09-28 04:55:22.662] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/superuser/.vscode-server/bin/58bb7b2331731bf72587010e943852e13e6fd3cf/extensions/debug-auto-launch/dist/extension
+[2020-09-28 04:55:22.673] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-09-28 04:55:22.673] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/superuser/.vscode-server/bin/58bb7b2331731bf72587010e943852e13e6fd3cf/extensions/emmet/dist/node/emmetNodeMain
+[2020-09-28 04:55:22.697] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-09-28 04:55:22.697] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/superuser/.vscode-server/bin/58bb7b2331731bf72587010e943852e13e6fd3cf/extensions/git/dist/main
+[2020-09-28 04:55:22.743] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-09-28 04:55:22.743] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/superuser/.vscode-server/bin/58bb7b2331731bf72587010e943852e13e6fd3cf/extensions/merge-conflict/dist/mergeConflictMain
+[2020-09-28 04:55:22.747] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-09-28 04:55:22.747] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/superuser/.vscode-server/bin/58bb7b2331731bf72587010e943852e13e6fd3cf/extensions/search-result/dist/extension.js
+[2020-09-28 04:55:22.748] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"extensionId":{"value":"eamodio.gitlens","_lower":"eamodio.gitlens"},"activationEvent":"*"}
+[2020-09-28 04:55:22.748] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/superuser/.vscode-server/extensions/eamodio.gitlens-10.2.2/dist/extension
+[2020-09-28 04:55:22.962] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-09-28 04:55:22.962] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/superuser/.vscode-server/bin/58bb7b2331731bf72587010e943852e13e6fd3cf/extensions/github/dist/extension.js
+[2020-09-28 04:55:22.986] [exthost] [info] eager extensions activated
